@@ -2,7 +2,7 @@ package com.oneutf.algorithm.base;
 
 /**
  * @author oneutf
- * @deprecated 快速排序基本实现
+ * @desc 快速排序基本实现
  */
 public class QuickSort {
 
